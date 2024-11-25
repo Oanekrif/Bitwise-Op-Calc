@@ -38,7 +38,6 @@ Simulates integer division:</br>
 ## 🎯 Example Usage
 The main() function demonstrates the calculator with various operations:
 
-    ```
     printf("Addition: %d\n", add(5, 3));            // Output: 8 
     printf("Subtraction: %d\n", subtract(10, 4));   // Output: 6 
     printf("Multiplication: %d\n", multiply(4, 3)); // Output: 12 
