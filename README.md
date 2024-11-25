@@ -38,7 +38,7 @@ Simulates integer division:</br>
 ## 🎯 Example Usage
 The main() function demonstrates the calculator with various operations:
 
-    ```c
+    ```
     printf("Addition: %d\n", add(5, 3));            // Output: 8 
     printf("Subtraction: %d\n", subtract(10, 4));   // Output: 6 
     printf("Multiplication: %d\n", multiply(4, 3)); // Output: 12 
@@ -48,13 +48,13 @@ The main() function demonstrates the calculator with various operations:
 1. Clone the repository:
     ```bash
    git clone https://github.com/Oanekrif/Bitwise-Op-Calc.git
-2. Navigate to the project directory:
+3. Navigate to the project directory:
     ```bash
    cd Bitwise-Op-Calc
-3. compile the code:
+4. compile the code:
     ```bash
    gcc bitcalc.c -o main
-4. Run the executable:
+5. Run the executable:
     ```bash
    ./main
 
