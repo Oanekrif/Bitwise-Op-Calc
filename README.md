@@ -39,21 +39,24 @@ Simulates integer division:</br>
 The main() function demonstrates the calculator with various operations:
 
     ```c
-    printf("Addition: %d\n", add(5, 3));            // Output: 8 </br> printf("Subtraction: %d\n", subtract(10, 4));   // Output: 6 </br> printf("Multiplication: %d\n", multiply(4, 3)); // Output: 12 </br> printf("Division: %d\n", divide(15, 3));        // Output: 5 </br>
+    printf("Addition: %d\n", add(5, 3));            // Output: 8 
+    printf("Subtraction: %d\n", subtract(10, 4));   // Output: 6 
+    printf("Multiplication: %d\n", multiply(4, 3)); // Output: 12 
+    printf("Division: %d\n", divide(15, 3));        // Output: 5 
 
 ## 🚀 How to Run:
 1. Clone the repository:
     ```bash
-   git clone https://github.com/Oanekrif/blabla.git
+   git clone https://github.com/Oanekrif/Bitwise-Op-Calc.git
 2. Navigate to the project directory:
     ```bash
-   cd blabla
+   cd Bitwise-Op-Calc
 3. compile the code:
     ```bash
-   gcc calculator.c -o calculator
+   gcc bitcalc.c -o main
 4. Run the executable:
     ```bash
-   ./calculator
+   ./main
 
 ## 🧑‍💻 This project demonstrates:
 
