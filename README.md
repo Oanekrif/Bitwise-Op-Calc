@@ -47,13 +47,13 @@ The main() function demonstrates the calculator with various operations:
 1. Clone the repository:
     ```bash
    git clone https://github.com/Oanekrif/Bitwise-Op-Calc.git
-3. Navigate to the project directory:
+2. Navigate to the project directory:
     ```bash
    cd Bitwise-Op-Calc
-4. compile the code:
+3. compile the code:
     ```bash
    gcc bitcalc.c -o main
-5. Run the executable:
+4. Run the executable:
     ```bash
    ./main
 
